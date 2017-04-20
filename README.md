@@ -1,5 +1,7 @@
 # Example choropleth map with D3 and TopoJSON
 
+The resulting map can be viewed [here](https://cdn.rawgit.com/christiankaiser/d3-topojson-choropleth/9e1fa242720f04a66a81f0078e8d9e44052549e9/index.html).
+
 This choropleth map shows the percentage of single young females (aged 20-35 years) across the Swiss municipalities in 2015.
 
 It uses a TopoJSON file as source for the geometries, and a TSV file for the data. Jenks method is used for finding the optimal class limits.
